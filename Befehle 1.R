@@ -1,7 +1,6 @@
 
 # DATEN VERWALTEN--------------STATISTIKEN--------------TABELLEN
 
-
 #Konsole Befehle
 rm(list = ls())
 rm(Name)
